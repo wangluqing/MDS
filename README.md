@@ -18,3 +18,5 @@
 
 ## 7 其他
 
+## 参考资料
+- 1 [MDSWithR](https://mdsr-book.github.io/mdsr2e/)
